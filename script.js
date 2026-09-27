@@ -6,11 +6,11 @@
 
 function validEmail(email)
 {
-   index.htmlreturn email.includes("@gmail.com") ? true : false ;
+    return email.includes("@gmail.com") ? true : false;
 }
 
 
-console.log(validEmail("swethagmail.com"));
+console.log(validEmail("swetha@gmail.com"));
 
 
 
